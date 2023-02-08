@@ -5,7 +5,7 @@
  * @since 06/02/2023
  * @author Leonardo Jesús Figueroa Valdivia
  * @author Lucas Sanchez Cabrera
- * @author Jonathan Rodriguez
+ * @author Jonathan Rodriguez Cruz
  */
 
 //Seleccionamos los elementos fill y empty del documento
